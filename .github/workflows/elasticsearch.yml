@@ -1,4 +1,4 @@
-name: Elasticsearch Github Action
+name: Elasticsearch Github Action1
 
 on: [push, pull_request]
 
